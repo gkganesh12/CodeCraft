@@ -98,4 +98,6 @@ Contributions are welcome! Please look at the `Docs/` folder for architectural g
 
 MIT
 
-## Created with ❤️ By Ganesh Khetawat for Developers
+## Created with ❤️ By Ganesh Khetawat for Developers 
+## Feel Free to Tweak and make changes 
+## Request a Feature
